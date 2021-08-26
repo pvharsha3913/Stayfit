@@ -1,2 +1,2 @@
 # Stayfit
-A Simple alerting application daily when to wakeup,brakfast,lunch,dinner etc.
+A Simple alerting application daily when to wakeup,and when to do breakfast,lunch,dinner etc.
